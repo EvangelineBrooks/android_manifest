@@ -10,7 +10,7 @@
         sync-j="16" />
 		
     <remote  name="private"
-        fetch="ssh://git@github.com"
+        fetch="https://github.com/"
         revision="oreo" />
 
     <!-- General -->
